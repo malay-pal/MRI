@@ -1,4 +1,4 @@
-# MRI
+# MRI skull Stripping with NFBS public Dataset 
 MRI skull Stripping
 
 
